@@ -1,0 +1,2 @@
+# kinfai.github.io
+blog
